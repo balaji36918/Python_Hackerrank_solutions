@@ -1,2 +1,3 @@
 # Python_Hackerrank_solutions
-Python Self works
+
+Note: These are the solutions of Python problems in the online problem solving platform, "Hackerrank".
